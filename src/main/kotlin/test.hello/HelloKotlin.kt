@@ -15,4 +15,9 @@ fun main(args: Array<String>) {
     val p = Person()
     p.hello()
     HelloKotlin().hello()
+    var age : Float=25f
+    var name:String
+    name="Kevin"
+    println(age.toString()+ name)
+
 }
